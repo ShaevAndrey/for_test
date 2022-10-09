@@ -1,2 +1,4 @@
 # For test with git
-> testing different patterns
+
+## second commit
+> second commit
